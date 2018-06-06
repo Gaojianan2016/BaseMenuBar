@@ -27,5 +27,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'com.android.support:recyclerview-v7:27.1.1'
     implementation 'com.github.Gaojianan2016:BaseRecyclerAdapter:1.0.1'
-    implementation project(':basemenubarlibrary')
+//    implementation project(':basemenubarlibrary')
+    implementation 'com.github.Gaojianan2016:BaseMenuBar:1.0.0'
 }
