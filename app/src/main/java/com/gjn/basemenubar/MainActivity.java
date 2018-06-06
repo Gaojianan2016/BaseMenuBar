@@ -1,16 +1,15 @@
 package com.gjn.basemenubar;
 
 import android.content.Context;
+import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 
 import com.gjn.basemenubarlibrary.MenuBar;
 import com.gjn.basemenubarlibrary.MenuBarItem;
-import com.gjn.library.BaseRecyclerAdapter;
-import com.gjn.library.RecyclerViewHolder;
+import com.gjn.baserecycleradapterlibrary.BaseRecyclerAdapter;
+import com.gjn.baserecycleradapterlibrary.RecyclerViewHolder;
 
 import java.util.ArrayList;
 import java.util.List;
